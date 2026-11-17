@@ -4,7 +4,7 @@ import org.springframework.data.jpa.domain.Specification;
 
 import java.util.Locale;
 
-public class TeamSpecs {
+public final class TeamSpecs {
 
     // Static factory methods only; not meant to be instantiated.
     private TeamSpecs() {
